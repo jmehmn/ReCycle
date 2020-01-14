@@ -1,10 +1,22 @@
 # ReCycle
-Here are examples of my work on the user account creation, management and authorization on the e-commerce web application for the startup company Re-Cycle.
+Here are examples of my work on the user account registration and login, along with the shop and product details page.
 
-The website allows for the registration of accounts for customers looking to purchase bicycles, or to sell them, with the hopes of eliminating the waste produced by used bicycles.
+# Login & Registration
 
-In these examples, you will find the Login and Registration forms where I was responsible for handling the form Validation, 
-email confirmation, and salting and hashing password cryptography utilizing the bCrypt library and T-SQL.
+<img src="https://i.imgur.com/wjvAPMF.png">
+
+<img src="https://i.imgur.com/g7YhGVU.png">
+
+# Product Landing Page
+
+<img src="https://i.imgur.com/YOEP5BX.jpg">
+
+# Product Details Page
+
+<img src="https://i.imgur.com/GX13JAf.jpg">
+
+
+
 
 
 
