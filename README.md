@@ -1,5 +1,6 @@
-# ReCycle
+# Re-Cycle
 Here are examples of my work on the user account registration and login, along with the shop and product details page.
+The website is currently pending launch.
 
 # Login & Registration
 
