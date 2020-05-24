@@ -16,6 +16,10 @@ The website is currently pending launch.
 
 <img src="https://i.imgur.com/GX13JAf.jpg">
 
+# Visual DataBase Layout
+
+<img src="https://i.imgur.com/egc2l0B.png">
+
 
 
 
