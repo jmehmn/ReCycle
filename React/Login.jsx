@@ -1,5 +1,5 @@
 import React from "react";
-import logger from "sabio-debug";
+import logger from "recycle-debug";
 import * as userService from "../../services/userService";
 import { Formik, FastField, Form } from "formik";
 import PropTypes from "prop-types";
