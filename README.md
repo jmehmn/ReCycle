@@ -17,6 +17,7 @@ The website is currently pending launch.
 <img src="https://i.imgur.com/GX13JAf.jpg">
 
 # Visual Database Layout
+I created this chart for the team of developers to ensure we had an active and updateable visual layout of our SQL Database. Each line signifies the foreign key between each table.
 
 <img src="https://i.imgur.com/egc2l0B.png">
 
